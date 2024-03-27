@@ -2,3 +2,7 @@
 # this my page
 ## hello to my page
 ### js
+### I learned how to insert an image using Mark Down 
+## and that Mark Down is a non-programming language
+# and I learned to write texts of different sizes
+# It took me two hours to get the work done
